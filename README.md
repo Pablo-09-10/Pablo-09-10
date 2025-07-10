@@ -9,8 +9,7 @@ Soy Ingeniero Industrial apasionado por data science y data analyst, siempre apr
 - 🌱 Actualmente aprendiendo: PowerBI, Spark
 - 🤝 Abierto a colaborar en: Proyectos de Data Science y Data Analyst
 - ❤ Hobbies: 🏊 🚴🏃‍♂️🏋️‍♂️📖
-- 📫 Cómo contactarme: [correo, redes sociales, sitio web]
-- [![LinkedIn](URL_DE_LA_IMAGEN_EN_GITHUB)](https://www.linkedin.com/in/TU_PERFIL_DE_LINKEDIN) Conecta conmigo y conoce más sobre mi experiencia.
+- 📫 Cómo contactarme:  [LinkedIn](https://www.linkedin.com/in/pablo-romero-9652701a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 
 
