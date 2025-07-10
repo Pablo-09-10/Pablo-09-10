@@ -26,8 +26,6 @@ Soy Ingeniero Industrial apasionado por data science y data analyst, siempre apr
 ## 📈 Estadísticas
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pablo-09-10&show_icons=true&theme=)
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-09-10&layout=compact)
 
 
